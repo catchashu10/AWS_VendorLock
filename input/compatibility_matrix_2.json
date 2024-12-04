@@ -159,11 +159,6 @@
       "GCP": null,
       "Compatibility": "Partially Compatible"
     },
-    "CouchBase": {
-      "Azure": "Azure Cosmos DB",
-      "GCP": "Firestore",
-      "Compatibility": "Partially Compatible"
-    },
     "DMS": {
       "Azure": "Azure Database Migration Service",
       "GCP": "Database Migration Service",
@@ -449,11 +444,6 @@
     "GCP": "AI Platform",
     "Compatibility": "Fully Compatible"
   },
-  "MongoDBAtlas": {
-    "Azure": "Cosmos DB",
-    "GCP": "Firestore",
-    "Compatibility": "Fully Compatible"
-  },
   "NAT": {
     "Azure": "NAT Gateway",
     "GCP": "Cloud NAT",
@@ -468,11 +458,6 @@
     "Azure": "Cosmos DB",
     "GCP": "Neo4j on GCP",
     "Compatibility": "Partially Compatible"
-  },
-  "OnPremDC": {
-    "Azure": "Azure Stack",
-    "GCP": "Anthos",
-    "Compatibility": "Fully Compatible"
   },
   "OpenSearch": {
     "Azure": "Azure Cognitive Search",
@@ -549,11 +534,6 @@
     "GCP": "Cloud Storage",
     "Compatibility": "Fully Compatible"
   },
-  "SAP": {
-    "Azure": "SAP on Azure",
-    "GCP": "SAP on GCP",
-    "Compatibility": "Fully Compatible"
-  },
   "SES": {
     "Azure": "SendGrid on Azure",
     "GCP": "SendGrid on GCP",
@@ -602,11 +582,6 @@
   "ServiceCatalog": {
     "Azure": "Azure Managed Applications",
     "GCP": "Service Catalog",
-    "Compatibility": "Fully Compatible"
-  },
-  "ServiceNow": {
-    "Azure": "ServiceNow on Azure",
-    "GCP": "ServiceNow on GCP",
     "Compatibility": "Fully Compatible"
   },
   "Shield": {
