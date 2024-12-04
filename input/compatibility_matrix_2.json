@@ -1,0 +1,697 @@
+{
+    "ACM": {
+      "Azure": "App Service Certificates",
+      "GCP": "Certificate Manager",
+      "Compatibility": "Fully Compatible"
+    },
+    "ALB": {
+      "Azure": "Application Gateway",
+      "GCP": "Cloud Load Balancing",
+      "Compatibility": "Fully Compatible"
+    },
+    "AMI": {
+      "Azure": "Azure Virtual Machine Images",
+      "GCP": "Custom Images",
+      "Compatibility": "Fully Compatible"
+    },
+    "AWSConfig": {
+      "Azure": "Azure Policy",
+      "GCP": "Cloud Asset Inventory",
+      "Compatibility": "Partially Compatible"
+    },
+    "AccessAnalyzer": {
+      "Azure": "Azure Monitor",
+      "GCP": "Cloud Audit Logs",
+      "Compatibility": "Partially Compatible"
+    },
+    "AlexaForBusiness": {
+      "Azure": null,
+      "GCP": null,
+      "Compatibility": "Incompatible"
+    },
+    "AmazonML": {
+      "Azure": "Azure Machine Learning",
+      "GCP": "AI Platform",
+      "Compatibility": "Fully Compatible"
+    },
+    "AmazonMQ": {
+      "Azure": "Azure Service Bus",
+      "GCP": "Pub/Sub",
+      "Compatibility": "Fully Compatible"
+    },
+    "Amplify": {
+      "Azure": "Azure Static Web Apps",
+      "GCP": "Firebase",
+      "Compatibility": "Fully Compatible"
+    },
+    "ApiGateway": {
+      "Azure": "API Management",
+      "GCP": "API Gateway",
+      "Compatibility": "Fully Compatible"
+    },
+    "AppDiscovery": {
+      "Azure": "Azure Migrate",
+      "GCP": "Migrate for Compute Engine",
+      "Compatibility": "Fully Compatible"
+    },
+    "AppStream": {
+      "Azure": "Azure Virtual Desktop",
+      "GCP": null,
+      "Compatibility": "Partially Compatible"
+    },
+    "AppSync": {
+      "Azure": "Azure API Management",
+      "GCP": "API Gateway",
+      "Compatibility": "Partially Compatible"
+    },
+    "Athena": {
+      "Azure": "Azure Synapse Analytics",
+      "GCP": "BigQuery",
+      "Compatibility": "Fully Compatible"
+    },
+    "Aurora": {
+      "Azure": "Azure Database for PostgreSQL/MySQL",
+      "GCP": "Cloud SQL",
+      "Compatibility": "Fully Compatible"
+    },
+    "AutoScaling": {
+      "Azure": "Virtual Machine Scale Sets",
+      "GCP": "Managed Instance Groups",
+      "Compatibility": "Fully Compatible"
+    },
+    "Batch": {
+      "Azure": "Azure Batch",
+      "GCP": "Batch",
+      "Compatibility": "Fully Compatible"
+    },
+    "BeanStalk": {
+      "Azure": "App Service",
+      "GCP": "App Engine",
+      "Compatibility": "Fully Compatible"
+    },
+    "Chime": {
+      "Azure": "Microsoft Teams",
+      "GCP": null,
+      "Compatibility": "Partially Compatible"
+    },
+    "CloudFormation": {
+      "Azure": "Azure Resource Manager",
+      "GCP": "Deployment Manager",
+      "Compatibility": "Fully Compatible"
+    },
+    "CloudFront": {
+      "Azure": "Azure CDN",
+      "GCP": "Cloud CDN",
+      "Compatibility": "Fully Compatible"
+    },
+    "CloudHSM": {
+      "Azure": "Azure Dedicated HSM",
+      "GCP": "Cloud HSM",
+      "Compatibility": "Fully Compatible"
+    },
+    "CloudTrail": {
+      "Azure": "Azure Monitor",
+      "GCP": "Cloud Audit Logs",
+      "Compatibility": "Fully Compatible"
+    },
+    "CloudWatch": {
+      "Azure": "Azure Monitor",
+      "GCP": "Operations Suite",
+      "Compatibility": "Fully Compatible"
+    },
+    "CodeBuild": {
+      "Azure": "Azure DevOps Pipelines",
+      "GCP": "Cloud Build",
+      "Compatibility": "Fully Compatible"
+    },
+    "CodeCommit": {
+      "Azure": "Azure Repos",
+      "GCP": "Cloud Source Repositories",
+      "Compatibility": "Fully Compatible"
+    },
+    "CodeDeploy": {
+      "Azure": "Azure DevOps Pipelines",
+      "GCP": "Cloud Deploy",
+      "Compatibility": "Fully Compatible"
+    },
+    "CodePipeline": {
+      "Azure": "Azure DevOps Pipelines",
+      "GCP": "Cloud Build",
+      "Compatibility": "Fully Compatible"
+    },
+    "Cognito": {
+      "Azure": "Azure AD B2C",
+      "GCP": "Identity Platform",
+      "Compatibility": "Fully Compatible"
+    },
+    "Comprehend": {
+      "Azure": "Text Analytics",
+      "GCP": "Cloud Natural Language",
+      "Compatibility": "Fully Compatible"
+    },
+    "Connect": {
+      "Azure": "Azure Communication Services",
+      "GCP": null,
+      "Compatibility": "Partially Compatible"
+    },
+    "ControlTower": {
+      "Azure": "Azure Blueprints",
+      "GCP": null,
+      "Compatibility": "Partially Compatible"
+    },
+    "CouchBase": {
+      "Azure": "Azure Cosmos DB",
+      "GCP": "Firestore",
+      "Compatibility": "Partially Compatible"
+    },
+    "DMS": {
+      "Azure": "Azure Database Migration Service",
+      "GCP": "Database Migration Service",
+      "Compatibility": "Fully Compatible"
+    },
+    "DataExchange": {
+      "Azure": null,
+      "GCP": null,
+      "Compatibility": "Incompatible"
+    },
+    "DataPipeline": {
+      "Azure": "Data Factory",
+      "GCP": "Dataflow",
+      "Compatibility": "Fully Compatible"
+    },
+    "DeepLens": {
+      "Azure": null,
+      "GCP": null,
+      "Compatibility": "Incompatible"
+    },
+    "Detective": {
+      "Azure": "Azure Sentinel",
+      "GCP": "Chronicle",
+      "Compatibility": "Fully Compatible"
+    },
+    "DevTools": {
+      "Azure": "Azure DevOps",
+      "GCP": "Cloud Build",
+      "Compatibility": "Fully Compatible"
+    },
+    "DirectConnect": {
+      "Azure": "ExpressRoute",
+      "GCP": "Cloud Interconnect",
+      "Compatibility": "Fully Compatible"
+    },
+    "DirectoryService": {
+      "Azure": "Azure Active Directory",
+      "GCP": "Managed Service for Microsoft AD",
+      "Compatibility": "Fully Compatible"
+    },
+    "DocumentDB": {
+      "Azure": "Cosmos DB",
+      "GCP": "Firestore",
+      "Compatibility": "Fully Compatible"
+    },
+    "DynamoDB": {
+      "Azure": "Cosmos DB",
+      "GCP": "Firestore",
+      "Compatibility": "Fully Compatible"
+    },
+    "DynamoDBStream": {
+    "Azure": "Azure Cosmos DB Change Feed",
+    "GCP": "Firestore Change Streams",
+    "Compatibility": "Fully Compatible"
+  },
+  "EBS": {
+    "Azure": "Azure Managed Disks",
+    "GCP": "Persistent Disks",
+    "Compatibility": "Fully Compatible"
+  },
+  "EC2": {
+    "Azure": "Virtual Machines",
+    "GCP": "Compute Engine",
+    "Compatibility": "Fully Compatible"
+  },
+  "ECR": {
+    "Azure": "Container Registry",
+    "GCP": "Artifact Registry",
+    "Compatibility": "Fully Compatible"
+  },
+  "ECS": {
+    "Azure": "Azure Kubernetes Service (AKS)",
+    "GCP": "Google Kubernetes Engine (GKE)",
+    "Compatibility": "Fully Compatible"
+  },
+  "EFS": {
+    "Azure": "Azure Files",
+    "GCP": "Filestore",
+    "Compatibility": "Fully Compatible"
+  },
+  "EKS": {
+    "Azure": "Azure Kubernetes Service (AKS)",
+    "GCP": "Google Kubernetes Engine (GKE)",
+    "Compatibility": "Fully Compatible"
+  },
+  "ELB": {
+    "Azure": "Load Balancer",
+    "GCP": "Cloud Load Balancing",
+    "Compatibility": "Fully Compatible"
+  },
+  "EMR": {
+    "Azure": "HDInsight",
+    "GCP": "Dataproc",
+    "Compatibility": "Fully Compatible"
+  },
+  "ElastiCache": {
+    "Azure": "Azure Cache for Redis",
+    "GCP": "Cloud Memorystore",
+    "Compatibility": "Fully Compatible"
+  },
+  "ElasticTranscoder": {
+    "Azure": "Azure Media Services",
+    "GCP": "Transcoder API",
+    "Compatibility": "Fully Compatible"
+  },
+  "ElementalLive": {
+    "Azure": "Azure Media Services",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "EventBridge": {
+    "Azure": "Event Grid",
+    "GCP": "Eventarc",
+    "Compatibility": "Fully Compatible"
+  },
+  "FSX": {
+    "Azure": "Azure NetApp Files",
+    "GCP": "Filestore",
+    "Compatibility": "Fully Compatible"
+  },
+  "Fargate": {
+    "Azure": "Azure Container Instances",
+    "GCP": "Cloud Run",
+    "Compatibility": "Fully Compatible"
+  },
+  "Firehose": {
+    "Azure": "Event Hubs",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "GlobalAccelerator": {
+    "Azure": "Front Door",
+    "GCP": "Cloud CDN",
+    "Compatibility": "Partially Compatible"
+  },
+  "Glue": {
+    "Azure": "Data Factory",
+    "GCP": "Dataflow",
+    "Compatibility": "Fully Compatible"
+  },
+  "Grafana": {
+    "Azure": "Azure Monitor",
+    "GCP": "Cloud Monitoring",
+    "Compatibility": "Partially Compatible"
+  },
+  "Greengrass": {
+    "Azure": "IoT Edge",
+    "GCP": "Cloud IoT Edge",
+    "Compatibility": "Fully Compatible"
+  },
+  "GuardDuty": {
+    "Azure": "Security Center",
+    "GCP": "Security Command Center",
+    "Compatibility": "Fully Compatible"
+  },
+  "IAM": {
+    "Azure": "Azure Active Directory",
+    "GCP": "Identity and Access Management",
+    "Compatibility": "Fully Compatible"
+  },
+  "Inspector": {
+    "Azure": "Security Center",
+    "GCP": "Security Command Center",
+    "Compatibility": "Fully Compatible"
+  },
+  "IoT1Click": {
+    "Azure": "IoT Central",
+    "GCP": "Cloud IoT Core",
+    "Compatibility": "Fully Compatible"
+  },
+  "IoTAnalytics": {
+    "Azure": "IoT Hub",
+    "GCP": "Cloud IoT Core",
+    "Compatibility": "Fully Compatible"
+  },
+  "IoTCore": {
+    "Azure": "IoT Hub",
+    "GCP": "Cloud IoT Core",
+    "Compatibility": "Fully Compatible"
+  },
+  "KMS": {
+    "Azure": "Key Vault",
+    "GCP": "Cloud Key Management Service",
+    "Compatibility": "Fully Compatible"
+  },
+  "Kendra": {
+    "Azure": "Azure Cognitive Search",
+    "GCP": "Cloud Search",
+    "Compatibility": "Fully Compatible"
+  },
+  "Kinesis": {
+    "Azure": "Event Hubs",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "KinesisAnalytics": {
+    "Azure": "Stream Analytics",
+    "GCP": "Dataflow",
+    "Compatibility": "Fully Compatible"
+  },
+  "KinesisDataStream": {
+    "Azure": "Event Hubs",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "KinesisVideo": {
+    "Azure": "Media Services",
+    "GCP": "Media AI",
+    "Compatibility": "Partially Compatible"
+  },
+  "LakeFormation": {
+    "Azure": "Data Lake Storage",
+    "GCP": "Cloud Storage",
+    "Compatibility": "Fully Compatible"
+  },
+  "Lambda": {
+    "Azure": "Functions",
+    "GCP": "Cloud Functions",
+    "Compatibility": "Fully Compatible"
+  },
+  "LambdaAtEdge": {
+    "Azure": "Azure Front Door with Functions",
+    "GCP": "Cloud CDN with Cloud Functions",
+    "Compatibility": "Partially Compatible"
+  },
+  "Lex": {
+    "Azure": "Bot Service",
+    "GCP": "Dialogflow",
+    "Compatibility": "Fully Compatible"
+  },
+  "LookoutForVision": {
+    "Azure": "Cognitive Services Computer Vision",
+    "GCP": "Vision AI",
+    "Compatibility": "Fully Compatible"
+  },
+  "MAM": {
+    "Azure": "Intune",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "MSK": {
+    "Azure": "Event Hubs",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "Macie": {
+    "Azure": "Purview",
+    "GCP": "Data Loss Prevention",
+    "Compatibility": "Fully Compatible"
+  },
+  "MediaConnect": {
+    "Azure": "Media Services",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "MediaConvert": {
+    "Azure": "Media Services",
+    "GCP": "Transcoder API",
+    "Compatibility": "Fully Compatible"
+  },
+  "MediaLive": {
+    "Azure": "Media Services",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "MediaPackage": {
+    "Azure": "Azure Media Services",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "MediaStore": {
+    "Azure": "Azure Blob Storage",
+    "GCP": "Cloud Storage",
+    "Compatibility": "Fully Compatible"
+  },
+  "MemoryDB": {
+    "Azure": "Azure Cache for Redis",
+    "GCP": "MemoryStore",
+    "Compatibility": "Fully Compatible"
+  },
+  "ModelRegistry": {
+    "Azure": "Azure Machine Learning",
+    "GCP": "AI Platform",
+    "Compatibility": "Fully Compatible"
+  },
+  "MongoDBAtlas": {
+    "Azure": "Cosmos DB",
+    "GCP": "Firestore",
+    "Compatibility": "Fully Compatible"
+  },
+  "NAT": {
+    "Azure": "NAT Gateway",
+    "GCP": "Cloud NAT",
+    "Compatibility": "Fully Compatible"
+  },
+  "NLB": {
+    "Azure": "Load Balancer",
+    "GCP": "Cloud Load Balancing",
+    "Compatibility": "Fully Compatible"
+  },
+  "Neptune": {
+    "Azure": "Cosmos DB",
+    "GCP": "Neo4j on GCP",
+    "Compatibility": "Partially Compatible"
+  },
+  "OnPremDC": {
+    "Azure": "Azure Stack",
+    "GCP": "Anthos",
+    "Compatibility": "Fully Compatible"
+  },
+  "OpenSearch": {
+    "Azure": "Azure Cognitive Search",
+    "GCP": "Elasticsearch on GCP",
+    "Compatibility": "Partially Compatible"
+  },
+  "Organizations": {
+    "Azure": "Management Groups",
+    "GCP": "Resource Manager",
+    "Compatibility": "Fully Compatible"
+  },
+  "Outpost": {
+    "Azure": "Azure Stack",
+    "GCP": "Anthos",
+    "Compatibility": "Fully Compatible"
+  },
+  "Pinpoint": {
+    "Azure": "Azure Notification Hubs",
+    "GCP": "Firebase Cloud Messaging",
+    "Compatibility": "Fully Compatible"
+  },
+  "Polly": {
+    "Azure": "Cognitive Services Text to Speech",
+    "GCP": "Cloud Text-to-Speech",
+    "Compatibility": "Fully Compatible"
+  },
+  "PrivateLink": {
+    "Azure": "Private Link",
+    "GCP": "Private Service Connect",
+    "Compatibility": "Fully Compatible"
+  },
+  "QuickSight": {
+    "Azure": "Power BI",
+    "GCP": "Looker",
+    "Compatibility": "Fully Compatible"
+  },
+  "RAM": {
+    "Azure": "Azure Resource Manager",
+    "GCP": "Resource Manager",
+    "Compatibility": "Fully Compatible"
+  },
+  "RDS": {
+    "Azure": "Azure SQL Database",
+    "GCP": "Cloud SQL",
+    "Compatibility": "Fully Compatible"
+  },
+  "RedShift": {
+    "Azure": "Azure Synapse Analytics",
+    "GCP": "BigQuery",
+    "Compatibility": "Fully Compatible"
+  },
+  "Rekognition": {
+    "Azure": "Cognitive Services Computer Vision",
+    "GCP": "Cloud Vision AI",
+    "Compatibility": "Fully Compatible"
+  },
+  "RoboMaker": {
+    "Azure": "Azure Bot Service",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "Route53": {
+    "Azure": "Azure DNS",
+    "GCP": "Cloud DNS",
+    "Compatibility": "Fully Compatible"
+  },
+  "S2SVPN": {
+    "Azure": "VPN Gateway",
+    "GCP": "Cloud VPN",
+    "Compatibility": "Fully Compatible"
+  },
+  "S3": {
+    "Azure": "Blob Storage",
+    "GCP": "Cloud Storage",
+    "Compatibility": "Fully Compatible"
+  },
+  "SAP": {
+    "Azure": "SAP on Azure",
+    "GCP": "SAP on GCP",
+    "Compatibility": "Fully Compatible"
+  },
+  "SES": {
+    "Azure": "SendGrid on Azure",
+    "GCP": "SendGrid on GCP",
+    "Compatibility": "Partially Compatible"
+  },
+  "SNS": {
+    "Azure": "Event Grid",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "SQS": {
+    "Azure": "Queue Storage",
+    "GCP": "Pub/Sub",
+    "Compatibility": "Fully Compatible"
+  },
+  "STS": {
+    "Azure": "Azure AD B2C",
+    "GCP": "Identity Platform",
+    "Compatibility": "Fully Compatible"
+  },
+  "SageMaker": {
+    "Azure": "Azure Machine Learning",
+    "GCP": "AI Platform",
+    "Compatibility": "Fully Compatible"
+  },
+  "SageMakerGroundTruth": {
+    "Azure": "Azure Machine Learning Data Labeling",
+    "GCP": "Data Labeling Service",
+    "Compatibility": "Fully Compatible"
+  },
+  "SecretsManager": {
+    "Azure": "Key Vault",
+    "GCP": "Secret Manager",
+    "Compatibility": "Fully Compatible"
+  },
+  "SecurityHub": {
+    "Azure": "Security Center",
+    "GCP": "Security Command Center",
+    "Compatibility": "Fully Compatible"
+  },
+  "ServerlessApplicationRepository": {
+    "Azure": "Azure Marketplace",
+    "GCP": "GCP Marketplace",
+    "Compatibility": "Fully Compatible"
+  },
+  "ServiceCatalog": {
+    "Azure": "Azure Managed Applications",
+    "GCP": "Service Catalog",
+    "Compatibility": "Fully Compatible"
+  },
+  "ServiceNow": {
+    "Azure": "ServiceNow on Azure",
+    "GCP": "ServiceNow on GCP",
+    "Compatibility": "Fully Compatible"
+  },
+  "Shield": {
+    "Azure": "DDoS Protection",
+    "GCP": "Cloud Armor",
+    "Compatibility": "Fully Compatible"
+  },
+  "ShieldAdvanced": {
+    "Azure": "DDoS Protection Standard",
+    "GCP": "Cloud Armor Advanced",
+    "Compatibility": "Fully Compatible"
+  },
+  "StepFunctions": {
+    "Azure": "Logic Apps",
+    "GCP": "Workflows",
+    "Compatibility": "Fully Compatible"
+  },
+  "StorageGateway": {
+    "Azure": "StorSimple",
+    "GCP": "Transfer Appliance",
+    "Compatibility": "Partially Compatible"
+  },
+  "SystemsManager": {
+    "Azure": "Automation",
+    "GCP": "Cloud Deployment Manager",
+    "Compatibility": "Partially Compatible"
+  },
+  "Textract": {
+    "Azure": "Form Recognizer",
+    "GCP": "Document AI",
+    "Compatibility": "Fully Compatible"
+  },
+  "Timestream": {
+    "Azure": "Time Series Insights",
+    "GCP": "Cloud Bigtable",
+    "Compatibility": "Partially Compatible"
+  },
+  "Transcribe": {
+    "Azure": "Azure Cognitive Services Speech to Text",
+    "GCP": "Cloud Speech-to-Text",
+    "Compatibility": "Fully Compatible"
+  },
+  "TransferFamily": {
+    "Azure": "Azure File Sync",
+    "GCP": "Transfer Service",
+    "Compatibility": "Fully Compatible"
+  },
+  "TransitGateway": {
+    "Azure": "Virtual WAN",
+    "GCP": "Cloud Router",
+    "Compatibility": "Fully Compatible"
+  },
+  "Translate": {
+    "Azure": "Azure Cognitive Services Translator",
+    "GCP": "Cloud Translation",
+    "Compatibility": "Fully Compatible"
+  },
+  "VPC": {
+    "Azure": "Virtual Network",
+    "GCP": "Virtual Private Cloud",
+    "Compatibility": "Fully Compatible"
+  },
+  "VPCPeering": {
+    "Azure": "Virtual Network Peering",
+    "GCP": "VPC Peering",
+    "Compatibility": "Fully Compatible"
+  },
+  "VPN": {
+    "Azure": "VPN Gateway",
+    "GCP": "Cloud VPN",
+    "Compatibility": "Fully Compatible"
+  },
+  "WAF": {
+    "Azure": "Web Application Firewall",
+    "GCP": "Cloud Armor",
+    "Compatibility": "Fully Compatible"
+  },
+  "WorkSpaces": {
+    "Azure": "Azure Virtual Desktop",
+    "GCP": null,
+    "Compatibility": "Partially Compatible"
+  },
+  "XRay": {
+    "Azure": "Application Insights",
+    "GCP": "Cloud Trace",
+    "Compatibility": "Fully Compatible"
+  }
+}
